@@ -1,0 +1,242 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.imgmain {
+  background-image: url("Assignment_3/dmin.jpg");
+  width: 100%;
+  height: 85vh;
+  background-size: cover;
+  background-position: top center;
+  padding: 18% 0 0 22%;
+}
+.imgmain p {
+  color: white;
+  font-size: x-large;
+  font-weight: 100;
+}
+
+.imgmain h1 {
+  color: white;
+  font-size: xxx-large;
+  border-bottom: 5px solid white;
+  width: 5.5em;
+  padding: 5px 0 10px 0;
+}
+
+.iconHead {
+  display: flex;
+  justify-content: flex-start;
+  gap: 4%;
+}
+.iconPaint {
+  padding-top: 30px;
+}
+.iconPaint span {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.iconPaint a {
+  text-decoration: none;
+  color: white;
+  font-size: x-small;
+}
+.fa-paintbrush,
+.fa-broom,
+.fa-wrench {
+  color: white;
+  margin-bottom: 20px;
+}
+.backimg2 {
+  background-color: rgb(241, 239, 239);
+  padding: 100px 0 60px 0;
+}
+.textparah h5 {
+  padding-bottom: 5px;
+}
+.textparah h1 {
+  font-size: xx-large;
+  padding: 0 0 10px 0;
+}
+.textparah p {
+  color: gray;
+  padding: 0 0 15px 0;
+}
+.mainText2 {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.red button {
+  border: none;
+}
+.red button a {
+  border-radius: 5%;
+}
+
+.imageText3 {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+  padding: 40px 0 40px 0;
+}
+.img1 img {
+  width: 330px;
+}
+.text1 p {
+  color: rgb(66, 60, 60);
+  margin: 30px 0 0 40px;
+}
+.img2 img {
+  width: 330px;
+  margin-top: 30px;
+}
+.text2 p {
+  color: red;
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.text2 h2 {
+  margin-top: 20px;
+}
+.colorGrey {
+  background-color: rgb(201, 199, 199);
+}
+.manImage img {
+  width: 80%;
+}
+.bestQuality4 {
+  width: 50%;
+  margin: auto;
+}
+.text4 h1 {
+  padding: 100px 0 10px 0;
+  border-bottom: 5px solid red;
+  width: 270px;
+  color: blue;
+  font-size: xx-large;
+}
+.text4 p {
+  padding: 15px 0 5px 0;
+}
+.bestQualityFlex {
+  display: flex;
+}
+.white5 {
+  width: 50%;
+  margin: auto;
+  padding: 30px 0 80px 0;
+  justify-content: space-between;
+}
+.main3BoxFlex {
+  display: flex;
+}
+.white5width h1 {
+  font-size: xx-large;
+}
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: orangered;
+  border-radius: 50%;
+  margin: 30px 0 10px 0;
+}
+.box1 h5 {
+  font-size: large;
+  padding-bottom: 15px;
+}
+.icon i {
+  color: white;
+  padding: 25px 0 0 12px;
+}
+.blue6 {
+  background-color: rgb(9, 93, 141);
+}
+.blue6Flex {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  align-items: center;
+  padding: 40px 0 20px 0;
+}
+.blueAboutUs p {
+  color: white;
+  padding: 0 100px 0 50px;
+}
+
+.blueAboutUs h1 {
+  color: white;
+  font-size: xxx-large;
+  padding: 0 100px 0 50px;
+}
+
+.images4_6 img {
+  max-width: 180px;
+  min-height: 160px;
+}
+.imges6Flex {
+  display: block;
+}
+.first2images_6,
+.second2images_6 {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.centeredText7 {
+  width: 50%;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+.centeredText7 h1 {
+  margin: 80px 0 20px 0;
+}
+.centeredText7 p {
+  font-size: larger;
+  margin-bottom: 20px;
+  line-height: 30px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-bottom: 50px;
+}
+.white a {
+  color: black;
+  display: inline-block;
+  padding: 13px 30px;
+  font-size: smaller;
+  background-color: white;
+  text-decoration: none;
+}
+.red a {
+  color: white;
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: smaller;
+  background-color: orangered;
+  text-decoration: none;
+}
+.footerBlack {
+  background-color: black;
+}
+.mainFooter8 {
+  width: 50%;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+.mainFooter8text p {
+  padding-top: 40px;
+  color: white;
+}
+.footerAnchors p {
+  color: white;
+  padding: 80px 0 50px 0;
+}
